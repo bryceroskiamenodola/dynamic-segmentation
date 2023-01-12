@@ -1,6 +1,7 @@
 # Project Specific
 models/
 notebooks/
+SNOWPARK_CREDS.json
 
 # Mlflow
 mlruns/
